@@ -1,16 +1,13 @@
 # mynotes
 
-A new Flutter project.
+A notes app to learn how to use this thing called flutter.
 
-## Getting Started
+## Course
 
-This project is a starting point for a Flutter application.
+If you want to do this course as well, is totally free in youtube but if you want to track your
+studies i recommend this web page [Course here!](https://www.classcentral.com/course/youtube-flutter-course-for-beginners-37-hour-cross-platform-app-development-tutorial-104327)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tutor
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Vandad Nahavandipoor](https://github.com/vandadnp)
